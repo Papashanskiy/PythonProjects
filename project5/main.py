@@ -44,6 +44,7 @@ def buttonCommand():
 root = Tk()
 
 root.title("Квадратное уравнение")
+root.resizable(0, 0)
 
 topFrame = Frame()
 topFrame.pack()
@@ -78,5 +79,7 @@ buttomSpace = Frame(bottomFrame, width=300)
 buttomSpace.pack(side=LEFT, pady=10)
 submit = ttk.Button(bottomFrame, text="Решить уравнение", command=buttonCommand)
 submit.pack(pady=10)
+
+aEntry.focus()
 
 root.mainloop()
