@@ -1,0 +1,16 @@
+missing module named resource - imported by posix, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py
+missing module named posix - imported by os, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py
+missing module named readline - imported by cmd, code, pdb, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py
+missing module named _winreg - imported by platform, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py
+missing module named 'java.lang' - imported by platform, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py
+missing module named termios - imported by tty, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py, getpass
+missing module named grp - imported by shutil, tarfile, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py
+missing module named 'org.python' - imported by copy, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py, xml.sax
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py, netrc, getpass
+missing module named org - imported by pickle, C:\Users\Игорь\Desktop\Python\PythonProjects\project14_poem_application_v_1_2\main.py
