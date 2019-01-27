@@ -103,7 +103,7 @@ class Application:
         self.remove_frame.grid()
 
         self.del_main_lbl = Label(self.remove_frame, text="Remove:", font="helvetica 15")
-        self.del_main_lbl.grid(row=0, pady=15, padx=10, sticky='W')
+        self.del_main_lbl.grid(row=0, pady=10, padx=10, sticky='W')
 
         text = 'Select which poem \nyou want to delete:'
 
